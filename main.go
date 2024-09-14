@@ -5,10 +5,10 @@ import "fmt"
 func main() {
 	fmt.Println("yeah buddy")
 }
-func createData{
+func createData() {
 
 }
 
-func removeData{
-	
+func removeData() {
+
 }
