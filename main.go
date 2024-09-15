@@ -9,6 +9,6 @@ func createData() {
 
 }
 
-func removeData() {
+func addFiles() {
 
 }
